@@ -25,7 +25,7 @@ return words in metonymic relation to the GS, replicating the mechanism of _sema
 coercion_ (Pustejovsky and Jezek, 2008), and possess limited sensitivity to linguistic
 boundaries in the explicitation of _Shadow Arguments_.
 
-The corpus has also been presentet at CliC-it 2023 with the paper:
+The corpus has also been presented at the conference CliC-it 2023 with the paper:
 
 Daffara, Agnese e Jezek, Elisabetta (2023). Towards an Italian Corpus for Implicit Object Completion. In _Proceedings of the ninth Italian Conference on Computational Linguistics CliC-it 2023_, Venice, Italy. https://ceur-ws.org/Vol-3596/paper19.pdf 
 

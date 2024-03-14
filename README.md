@@ -1,9 +1,5 @@
 This repository contains the complete annotated corpus, results and scripts used for my master thesis' project at the University of Pavia (academic year 2022/2023).
 
-It also contains the material for our paper presented at CliC-it 2023:
-
-Daffara, Agnese e Jezek, Elisabetta (2023). Towards an Italian Corpus for Implicit Object Completion. In _Proceedings of the ninth Italian Conference on Computational Linguistics CliC-it 2023_, Venice, Italy. https://ceur-ws.org/Vol-3596/paper19.pdf 
-
 TITLE
 
 Ita: "Completamento automatico dell’Oggetto Implicito in italiano: un’esplorazione con BERT"
@@ -54,3 +50,8 @@ suona \[il pianoforte\] sempre due volte"). Furthermore, it is observed that the
 return words in metonymic relation to the GS, replicating the mechanism of _semantic
 coercion_ (Pustejovsky and Jezek, 2008), and possess limited sensitivity to linguistic
 boundaries in the explicitation of _Shadow Arguments_.
+
+It also contains the material for our paper presented at CliC-it 2023:
+
+Daffara, Agnese e Jezek, Elisabetta (2023). Towards an Italian Corpus for Implicit Object Completion. In _Proceedings of the ninth Italian Conference on Computational Linguistics CliC-it 2023_, Venice, Italy. https://ceur-ws.org/Vol-3596/paper19.pdf 
+

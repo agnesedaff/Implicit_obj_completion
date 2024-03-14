@@ -1,14 +1,13 @@
 This repository contains the complete annotated corpus, results and scripts used for my master thesis' project at the University of Pavia (academic year 2022/2023).
 
-Title of the thesis:
+TITLE
 
 Ita: "Completamento automatico dell’Oggetto Implicito in italiano: un’esplorazione con BERT"
 
 Eng: "Authomatic Implicit Object Completion in Italian: an exploration with BERT".
 
-Abstract:
+ABSTRACT
 
-Ita:
 La tesi descrive un esperimento sul completamento automatico dell’Oggetto Implicito in
 italiano. Il task è strutturato come un _fill-mask_ o _cloze-task_ da applicare a cinque modelli
 BERT italiani, sfruttando appieno le loro capacità bidirezionali. In primis, a partire da
@@ -31,7 +30,6 @@ relazione metonimica con il GS, replicando il meccanismo di _semantic coercion_ 
 e Jezek, 2008), e la scarsa sensibilità ai limiti linguistici nell’esplicitazione degli _Shadow
 Arguments_.
 
-Eng:
 This thesis describes an experiment on automatic Implicit Object completion in Italian. The
 task is structured as a _fill-mask_ or _cloze-task_ to be applied to five Italian BERT models, fully
 exploiting their bidirectional capabilities. Firstly, starting from a selected Ontology of 30

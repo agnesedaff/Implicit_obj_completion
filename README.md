@@ -1,11 +1,12 @@
 This repository contains the complete annotated corpus, results and scripts used for my master thesis' project at the University of Pavia (academic year 2022/2023).
 
-Title of the thesis
+Title of the thesis:
 
 Ita: "Completamento automatico dell’Oggetto Implicito in italiano: un’esplorazione con BERT"
+
 Eng: "Authomatic Implicit Object Completion in Italian: an exploration with BERT".
 
-Abstract
+Abstract:
 
 Ita:
 La tesi descrive un esperimento sul completamento automatico dell’Oggetto Implicito in

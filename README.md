@@ -8,7 +8,7 @@ Eng: "Authomatic Implicit Object Completion in Italian: an exploration with BERT
 
 ABSTRACT
 
-La tesi descrive un esperimento sul completamento automatico dell’Oggetto Implicito in
+Ita: La tesi descrive un esperimento sul completamento automatico dell’Oggetto Implicito in
 italiano. Il task è strutturato come un _fill-mask_ o _cloze-task_ da applicare a cinque modelli
 BERT italiani, sfruttando appieno le loro capacità bidirezionali. In primis, a partire da
 un’Ontologia scelta di 30 verbi (37 pattern semantici della risorsa T-PAS), viene creato un
@@ -30,7 +30,7 @@ relazione metonimica con il GS, replicando il meccanismo di _semantic coercion_ 
 e Jezek, 2008), e la scarsa sensibilità ai limiti linguistici nell’esplicitazione degli _Shadow
 Arguments_.
 
-This thesis describes an experiment on automatic Implicit Object completion in Italian. The
+Eng: This thesis describes an experiment on automatic Implicit Object completion in Italian. The
 task is structured as a _fill-mask_ or _cloze-task_ to be applied to five Italian BERT models, fully
 exploiting their bidirectional capabilities. Firstly, starting from a selected Ontology of 30
 verbs (37 semantic patterns from the T-PAS resource), a corpus of 1.200 sentences is created.

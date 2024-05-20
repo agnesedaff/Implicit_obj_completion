@@ -1,7 +1,7 @@
 This repository contains the complete annotated corpus, results and scripts used for my master thesis' project on the authomatic completion of Implicit Arguments in Italian at the University of Pavia (academic year 2022/2023).
 
 TITLE:
-"Authomatic Implicit Object Completion in Italian: an exploration with BERT".
+"Automatic Implicit Object Completion in Italian: an exploration with BERT".
 
 ABSTRACT:
 This thesis describes an experiment on automatic Implicit Object completion in Italian. The
